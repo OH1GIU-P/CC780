@@ -1,4 +1,4 @@
-# CC780 CC3300 CC3500 TM3300C TM3500C TetraMeter3300
+# CC780 CC785 CC3300 CC3500 TM3300C TM3500C TetraMeter3300
 CC780 version 2.67 is a free Windows control/programming software for the Uniden UBC-780XLT radioscanner
 
 CC785 is a free Windows control/programming software for the Uniden UBC-785XLT radioscanner
